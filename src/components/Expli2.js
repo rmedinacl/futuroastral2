@@ -23,8 +23,8 @@ const features = [
 ]
 export function Expli2() {
     return (
-        <div className="py-24 overflow-hidden bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-pink-100 via-purple-100 to-indigo-100 sm:py-32">
-            <div className="px-6 ml-16 opacity-100 max-w-7xl lg:px-8">
+        <div className="py-24 overflow-hidden bg-gradient-to-tl from-pink-300 via-purple-200 to-indigo-100 sm:py-32">
+            <div className="px-6 ml-4 opacity-100 max-w-7xl lg:px-8">
                 <div className="grid max-w-2xl grid-cols-1 mx-auto gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
                     <div className="lg:pr-8 lg:pt-4">
                         <div className="lg:max-w-lg">
