@@ -119,7 +119,7 @@ export const Portada = () => {
             }}
           />
         </div>
-        <div className="max-w-2xl px-4 py-32 ml-16 sm:py-48 lg:py-56">
+        <div className="max-w-2xl px-4 py-32 ml-4 sm:py-48 lg:py-56">
           <div className="hidden sm:mb-8 sm:flex sm:justify-left">
             <div className="relative px-3 py-1 text-sm leading-6 text-white rounded-full ring-1 ring-gray-900/10 hover:ring-gray-900/20">
               Ingresa a tu cuenta.{' '}
@@ -137,7 +137,7 @@ export const Portada = () => {
             <div className="flex mt-10 justify-left items-left gap-x-6">
               <a
                 href="#"
-                className="rounded-md bg-red-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                className="rounded-md bg-pink-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Obtén tu lectura ahora
               </a>
